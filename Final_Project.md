@@ -31,7 +31,7 @@
 ## 사용한 공공데이터 
 [데이터보기](https://www.data.go.kr/dataset/15004770/fileData.do)
 
-## 소스
+## 기능 설명
 * [링크로 소스 내용 보기](https://www.youtube.com/watch?v=Ix2IiLX6mS0) 
 
 * 코드 삽입
